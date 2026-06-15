@@ -61,7 +61,7 @@ export default function LoginPage() {
         <div className="grid w-full overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm md:grid-cols-2">
           <section className="bg-blue-900 p-8 text-white md:p-10">
             <p className="text-xs font-semibold uppercase tracking-[0.2em] text-blue-200">
-              School Property Inventory System
+              Marigondon Elementary School Property Inventory System
             </p>
 
             <h1 className="mt-6 text-3xl font-semibold leading-tight">
